@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const path = require("path");
 
 const dataFile = path.join(__dirname, "data", "uadata.json");
-const sourceUrl = "https://raw.githubusercontent.com/你的用户名/你的仓库/main/uadata.json";
+const sourceUrl = "https://raw.githubusercontent.com/fugpt/fingerprint/refs/heads/main/data/uadata.json";
 
 async function updateFingerprints() {
   try {
