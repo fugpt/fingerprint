@@ -1,2 +1,1 @@
-# Windows 单行写入
-echo {"version": 2} > vercel.json
+{"version":2} 
