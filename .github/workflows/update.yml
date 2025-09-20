@@ -1,0 +1,32 @@
+name: Update Fingerprints
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"   # 每月1日 00:00 运行
+  workflow_dispatch:       # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install deps
+        run: npm install
+
+      - name: Generate new fingerprints
+        run: node generate.js
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/uadata.json
+          git commit -m "chore: auto update fingerprints [skip ci]" || echo "No changes"
+          git push
