@@ -90,9 +90,9 @@ function generateFingerprint() {
 }
 
 // 生成 30 个指纹
-const fingerprints = Array.from({ length: 30 }, generateFingerprint);
+const fingerprints = Array.from({ length: 100 }, generateFingerprint);
 
 // 写入 JSON
 fs.writeFileSync(dataFile, JSON.stringify(fingerprints, null, 2), "utf-8");
 
-console.log("✅ 已生成新的指纹库:", dataFile);
+console.log("✅ 已生成100套新指纹库:", dataFile);
