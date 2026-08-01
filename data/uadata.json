@@ -1,7 +1,313 @@
 [
   {
-    "canvas": "k8cvrv2fiy59",
-    "webgl": "yr5sgw0o83zp",
+    "canvas": "8txkokx3nfmf",
+    "webgl": "8ara8lsss1y0",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "kve8osgbfh8n",
+    "webgl": "5ea8k2aipulc",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "tfsyrldl6znv",
+    "webgl": "tf7w5r2wian0",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "ppafxo39w8ok",
+    "webgl": "p0tlb9ym9923",
+    "platform": "iPhone",
+    "screen": "1170x2532",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "oh4qyhlulfg4",
+    "webgl": "du1ivi6jgmpj",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "16GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "kcdxirgzukej",
+    "webgl": "j4r2gthtilcd",
+    "platform": "Android",
+    "screen": "1440x3200",
+    "memory": "12GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "oz4jfq7xe4df",
+    "webgl": "f4ojameorsvx",
+    "platform": "iPhone",
+    "screen": "1284x2778",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "kw7idrgacnjq",
+    "webgl": "7dpbrxjxq46r",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
+  },
+  {
+    "canvas": "9r6e1a8wdica",
+    "webgl": "r4h3brh2p29u",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "h1g0e6yo6saf",
+    "webgl": "jfkk4whudt33",
+    "platform": "MacIntel",
+    "screen": "2880x1800",
+    "memory": "8GB",
+    "cpu": "10",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "ds84fijnushb",
+    "webgl": "w9l1hgwua71f",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "icjuqobmc8dg",
+    "webgl": "7t3g9su7jsxb",
+    "platform": "iPhone",
+    "screen": "1284x2778",
+    "memory": "6GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "z4dalsc5dssh",
+    "webgl": "9ti950foytzp",
+    "platform": "iPhone",
+    "screen": "1284x2778",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "9lrdblwjbx7v",
+    "webgl": "ud44dp8it2oo",
+    "platform": "Android",
+    "screen": "1228x2700",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "iwo0nqffqks4",
+    "webgl": "bp0dldvnau6e",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "otqpokj1zdja",
+    "webgl": "sec2t7ovu6xq",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "rodfw8tjh8yn",
+    "webgl": "9096f0laqblw",
+    "platform": "iPhone",
+    "screen": "1170x2532",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "1sgtjilaef9w",
+    "webgl": "8macikwa04ee",
+    "platform": "iPhone",
+    "screen": "1170x2532",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "lzudmqokidil",
+    "webgl": "6fuqpjka80xt",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "7d0tcvazg3kg",
+    "webgl": "gpwlgw294iv2",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "ng2hmshioony",
+    "webgl": "3wfuhc2eh2rb",
+    "platform": "Android",
+    "screen": "1440x3200",
+    "memory": "12GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "aw7okqwela5t",
+    "webgl": "bv9jlvwutmim",
+    "platform": "Linux x86_64",
+    "screen": "2560x1440",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "n11gpzr7u68u",
+    "webgl": "1xyfs47ey123",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "16GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "6wmx250ae3pb",
+    "webgl": "fa4d9yxj5w5m",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "1k59z5txfixn",
+    "webgl": "x7esb90myn5s",
+    "platform": "Android",
+    "screen": "1080x2400",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "dxxg200z2xdl",
+    "webgl": "s1y70u1l64lc",
+    "platform": "Win32",
+    "screen": "2560x1440",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "26lsdoljljhx",
+    "webgl": "4z4phv1u69zb",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "716tuladu4xd",
+    "webgl": "087n7vujozmv",
+    "platform": "iPhone",
+    "screen": "1170x2532",
+    "memory": "6GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "hifra1frnu6r",
+    "webgl": "2t4lem18djh5",
+    "platform": "iPhone",
+    "screen": "1284x2778",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "mrvt92qjxruj",
+    "webgl": "nnfm7qi85upl",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "yv2d0shlxbxe",
+    "webgl": "we4ey7ivb4xc",
+    "platform": "Linux x86_64",
+    "screen": "2560x1440",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "ola294592mqe",
+    "webgl": "vymbrck3wxf6",
+    "platform": "Android",
+    "screen": "1080x2400",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "6yn7feynxh1r",
+    "webgl": "j3252o1i8q4c",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "xnns7yb9bl2i",
+    "webgl": "su60xut6b8bl",
+    "platform": "Win32",
+    "screen": "3440x1440",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "p61pncnjqxgm",
+    "webgl": "wowxcprpb5z9",
     "platform": "iPhone",
     "screen": "1170x2532",
     "memory": "6GB",
@@ -9,71 +315,233 @@
     "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
   },
   {
-    "canvas": "vfy4mll9bpus",
-    "webgl": "gpp8oojr8ptk",
-    "platform": "Win32",
-    "screen": "2560x1440",
+    "canvas": "e8bsognwgccq",
+    "webgl": "v55hso6yz05a",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
     "memory": "16GB",
     "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "yw6sj63xp7ky",
+    "webgl": "mjr8e2ple1wm",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "ljrmflg21tz1",
+    "webgl": "nh5dpm5v93u1",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "32GB",
+    "cpu": "4",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "8j3jc8c88gwn",
-    "webgl": "efdnkkijfp0y",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "32GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "gs2v66qquf3z",
-    "webgl": "a9okfvt5drk6",
-    "platform": "iPhone",
-    "screen": "1170x2532",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "4deo136p75a1",
-    "webgl": "mek3v4c6e3vz",
-    "platform": "iPhone",
-    "screen": "1170x2532",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "8x8vnz3lzgl5",
-    "webgl": "vp2bzemuj0pz",
+    "canvas": "om71i92ma5yw",
+    "webgl": "p4pe06jqsozr",
     "platform": "MacIntel",
     "screen": "2880x1800",
     "memory": "16GB",
     "cpu": "10",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "q3lap46i2zwv",
+    "webgl": "n5jhlwy5zq5m",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/142"
+  },
+  {
+    "canvas": "v78c4o81kcbt",
+    "webgl": "ztrlpm0cqayc",
+    "platform": "iPhone",
+    "screen": "1290x2796",
+    "memory": "6GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "ai8z1c5cs6e5",
+    "webgl": "57vjdx7nvklc",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "16GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "wvqu8pa3iqw6",
+    "webgl": "y8udwosda0cx",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "git6cvr6n1yc",
+    "webgl": "rm4bhj5r9ure",
+    "platform": "MacIntel",
+    "screen": "2880x1800",
+    "memory": "16GB",
+    "cpu": "10",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "28kuyo0opv60",
+    "webgl": "o1nukadmhndg",
+    "platform": "Linux x86_64",
+    "screen": "2560x1440",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "wmw3uvd4bpgt",
+    "webgl": "xs112bkfvkrz",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "0pmbui5naylc",
+    "webgl": "x0n17ht328po",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "j8ff21w959m9",
+    "webgl": "kpxjnt4d9f17",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "8gxufz37u7a0",
+    "webgl": "40qvotua4hon",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "tlztenu3cy4v",
+    "webgl": "5gahqjm2psaj",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "16GB",
+    "cpu": "10",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "ke7fsa8ke71x",
+    "webgl": "4yk8fx0xayzk",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "zg8w8181bmp0",
+    "webgl": "t52hbjrmu90j",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "jbdfc0ykxim2",
+    "webgl": "fksy9ewtffyp",
+    "platform": "MacIntel",
+    "screen": "2880x1800",
+    "memory": "8GB",
+    "cpu": "8",
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
   },
   {
-    "canvas": "tb30y8999cl5",
-    "webgl": "gyehh5ls24k7",
-    "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "12GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
+    "canvas": "0hewdtb96z52",
+    "webgl": "pvon2ic3ohzn",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "u4ee437moqxw",
-    "webgl": "gaknhje8kd2j",
+    "canvas": "hyqb70bwv2s5",
+    "webgl": "di19tebiaxn6",
     "platform": "MacIntel",
-    "screen": "2560x1600",
+    "screen": "2880x1800",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "4nyadsx7qb2g",
+    "webgl": "shw3nefgz57x",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "5nmcj0lfybpt",
+    "webgl": "b6u28pm5gjq9",
+    "platform": "Win32",
+    "screen": "1600x900",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "c5kpqgavvqfp",
+    "webgl": "o9jikgx33cpr",
+    "platform": "Win32",
+    "screen": "3440x1440",
+    "memory": "32GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "h7mbxkdurq20",
+    "webgl": "rby3xnyhmnji",
+    "platform": "Android",
+    "screen": "1080x2400",
+    "memory": "12GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "vqj4vd6g2ktn",
+    "webgl": "5tzjb16o00og",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
     "memory": "32GB",
     "cpu": "8",
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "7hgmjy0dwwiw",
-    "webgl": "z39idkww22je",
+    "canvas": "r7hn25app7mf",
+    "webgl": "rh8syudp2ehz",
     "platform": "MacIntel",
     "screen": "3024x1964",
     "memory": "16GB",
@@ -81,98 +549,44 @@
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
   },
   {
-    "canvas": "2ylcrnpmumml",
-    "webgl": "tri2hevx7ei3",
+    "canvas": "oepw9t6ojyk0",
+    "webgl": "a9mvd7syre1k",
     "platform": "MacIntel",
-    "screen": "2880x1800",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "eh2iops8nr4c",
-    "webgl": "pf2cgvys6h3n",
-    "platform": "Linux x86_64",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "ybha4ipq0p50",
-    "webgl": "jvpvgjjawnpb",
-    "platform": "MacIntel",
-    "screen": "2880x1800",
-    "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "ltzzg47s14c0",
-    "webgl": "5vdygxqh6htp",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "ndnan9chfzum",
-    "webgl": "j5fnr70kwpur",
-    "platform": "MacIntel",
-    "screen": "2880x1800",
+    "screen": "2560x1600",
     "memory": "8GB",
     "cpu": "8",
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
   },
   {
-    "canvas": "yb7cdwmx9ir9",
-    "webgl": "0p84j4ykk9jh",
+    "canvas": "ucj94fzv48mk",
+    "webgl": "l1995idqgw9e",
     "platform": "MacIntel",
     "screen": "2560x1600",
     "memory": "16GB",
     "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "vdft6qt6xa1h",
-    "webgl": "tvwmr3s0jnnn",
+    "canvas": "h2jsed449qrd",
+    "webgl": "q03bhzea4cfr",
     "platform": "MacIntel",
-    "screen": "2880x1800",
-    "memory": "16GB",
+    "screen": "2560x1600",
+    "memory": "8GB",
     "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
   },
   {
-    "canvas": "kjg340a7sd4i",
-    "webgl": "2dvktaq6irzj",
-    "platform": "Win32",
-    "screen": "2560x1440",
-    "memory": "32GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "ofp8vf8dlaov",
-    "webgl": "axw91c7tketb",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "8b20gy6dla17",
-    "webgl": "kbtfwqfd3ksc",
+    "canvas": "ur12dpzb49nd",
+    "webgl": "eb7gxrobquag",
     "platform": "MacIntel",
     "screen": "2560x1600",
     "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "haamacyk45b5",
-    "webgl": "8kazgw2nscbe",
+    "canvas": "4fnit88z9zs7",
+    "webgl": "eoxrb9zz8ooc",
     "platform": "Win32",
     "screen": "1600x900",
     "memory": "16GB",
@@ -180,296 +594,35 @@
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/142"
   },
   {
-    "canvas": "nxqa2ctr87kk",
-    "webgl": "v1rn08rfgw7z",
-    "platform": "Win32",
-    "screen": "2560x1440",
-    "memory": "8GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "uds2lfyz7azc",
-    "webgl": "n0d6ssszgqcx",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "7rwt3imqbxyc",
-    "webgl": "movd3sex1p2p",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "5adssy81ldm5",
-    "webgl": "xiw680jc7r4c",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "1l6cy35xal9y",
-    "webgl": "wfv0zwyamxk1",
-    "platform": "MacIntel",
-    "screen": "2880x1800",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "n9fkws6cbzji",
-    "webgl": "cz89j6ghjz5u",
-    "platform": "Android",
-    "screen": "1080x2400",
-    "memory": "6GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "dik1lgkcc1zf",
-    "webgl": "d03tqadxhdxj",
-    "platform": "iPhone",
-    "screen": "1170x2532",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "huh8rpt1gh5s",
-    "webgl": "1rzuhw4tyfba",
-    "platform": "Win32",
-    "screen": "2560x1440",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "l3e9gb528v8w",
-    "webgl": "897eny6nv42n",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "euy1xsioh2zo",
-    "webgl": "ehwv1wpzry4h",
-    "platform": "MacIntel",
-    "screen": "3024x1964",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "n989j4z971i4",
-    "webgl": "xge28p3e3l6r",
-    "platform": "Linux x86_64",
-    "screen": "2560x1440",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "m0vlsjyjcoo8",
-    "webgl": "o6p8nteqj3m7",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "ff9ocimy3swx",
-    "webgl": "h9r5q3sqkt6o",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "knjlhh4tgxcg",
-    "webgl": "vsjnvoohqube",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "t1uy7qjv0d4s",
-    "webgl": "w05lu05y9qs5",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "59e6pq0na7ql",
-    "webgl": "6yd4movmdn6z",
-    "platform": "Android",
-    "screen": "1080x2400",
-    "memory": "12GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "5xmgwwg9e72z",
-    "webgl": "5bv38ge22qur",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
-  },
-  {
-    "canvas": "nwtu8es0mxjz",
-    "webgl": "qxn3oiyrwnal",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "08dqub3dh1ik",
-    "webgl": "imnp200ginte",
-    "platform": "Linux x86_64",
-    "screen": "2560x1440",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "nutztnfk465i",
-    "webgl": "x0fkfzyqomql",
-    "platform": "Win32",
-    "screen": "3440x1440",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "cfwbva953zbd",
-    "webgl": "3g4pk6jama55",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "32GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "w53q1keb0zkd",
-    "webgl": "orzrwlqvzee9",
-    "platform": "Linux x86_64",
-    "screen": "1920x1080",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "o76sj2h45mcg",
-    "webgl": "nbg6oyn31kl8",
-    "platform": "MacIntel",
-    "screen": "2880x1800",
-    "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "r1whjzgqa287",
-    "webgl": "vdp9cciqpey6",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-  },
-  {
-    "canvas": "rn24ldgww83z",
-    "webgl": "4t741rsa6tye",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "d4ojuunp1rzh",
-    "webgl": "p3jmgexixp58",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "hah8rrrpmj8r",
-    "webgl": "diyhi2wn8rqp",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "m7rgvtbua54s",
-    "webgl": "bueom9cdeshl",
-    "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "12GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "0rfsw69pem2e",
-    "webgl": "0mwzcc1oa4zp",
-    "platform": "iPhone",
-    "screen": "1170x2532",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "6in6xv6gr32i",
-    "webgl": "ef6za377zg17",
-    "platform": "Win32",
-    "screen": "2560x1440",
-    "memory": "32GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "b355z0uf96bt",
-    "webgl": "qup777tti40i",
-    "platform": "Win32",
-    "screen": "3440x1440",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "iqkrp16xjype",
-    "webgl": "nu5sp7cwsi57",
+    "canvas": "nhkf7nn0xux5",
+    "webgl": "w9kqszfktdmd",
     "platform": "Android",
     "screen": "1228x2700",
     "memory": "12GB",
     "cpu": "6",
-    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Mobile Safari/537.36"
   },
   {
-    "canvas": "boa4ci570j3v",
-    "webgl": "b9lezqfwqxdk",
+    "canvas": "njtlrq8uwh5g",
+    "webgl": "zrx85zrpjfjt",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "molnrjeuw7ov",
+    "webgl": "ldfq9kt4rek2",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "8mfq3th6goal",
+    "webgl": "oaircqz35don",
     "platform": "MacIntel",
     "screen": "2560x1600",
     "memory": "16GB",
@@ -477,35 +630,224 @@
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "k75ick1o46tb",
-    "webgl": "scwbfis4qqw0",
+    "canvas": "hgbd7s1p9cd1",
+    "webgl": "gs6i5gl4ek7d",
     "platform": "MacIntel",
-    "screen": "2880x1800",
+    "screen": "2560x1600",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "5x5b6r5cgdqw",
+    "webgl": "xys1a48m1s6p",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "foxc0hubx187",
+    "webgl": "k41810zbovme",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "i9iqr57li4vx",
+    "webgl": "x3m3rngazq5i",
+    "platform": "Win32",
+    "screen": "1600x900",
     "memory": "8GB",
-    "cpu": "10",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "ipf32mkn2k2v",
+    "webgl": "ilhrejyi2s1v",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "o25ywl9pukme",
+    "webgl": "4in1dizhjqp9",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "7k4ptjv5vz4r",
+    "webgl": "6ij3hgzt144b",
+    "platform": "Linux x86_64",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "7o5bri8o84hk",
+    "webgl": "rdtrtkst1kxr",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "d1864pjz8ear",
+    "webgl": "s5iccne5xm35",
+    "platform": "iPhone",
+    "screen": "1290x2796",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
+  },
+  {
+    "canvas": "tbzqwpmzuoxu",
+    "webgl": "n7fld6rpwp4s",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "8GB",
+    "cpu": "8",
     "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
   },
   {
-    "canvas": "j5u1xqsbhge7",
-    "webgl": "9volzgslj83r",
+    "canvas": "kl8vtjeqdt8a",
+    "webgl": "2dw0mu1dj8i8",
+    "platform": "MacIntel",
+    "screen": "3456x2234",
+    "memory": "32GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "kcylb0pukl8x",
+    "webgl": "8xi0957ng3k9",
+    "platform": "Linux x86_64",
+    "screen": "2560x1440",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "13wjlahjbdaw",
+    "webgl": "mv0iqmvw54wy",
+    "platform": "Win32",
+    "screen": "1920x1080",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
+  },
+  {
+    "canvas": "l0gxts9h4018",
+    "webgl": "1uy74sedhwg5",
     "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "12GB",
+    "screen": "1080x2400",
+    "memory": "8GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "vie5jzfruf43",
+    "webgl": "13m0hj1hzv4f",
+    "platform": "Android",
+    "screen": "1228x2700",
+    "memory": "6GB",
     "cpu": "8",
     "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
   },
   {
-    "canvas": "dtrrlcctxmkz",
-    "webgl": "f38pk379oeuy",
-    "platform": "Linux x86_64",
+    "canvas": "gryte3x1vry1",
+    "webgl": "tf6jbe1ym9qs",
+    "platform": "Win32",
     "screen": "1920x1080",
     "memory": "16GB",
     "cpu": "8",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
   },
   {
-    "canvas": "4aogfy7uyw22",
-    "webgl": "gnh7j8mlv1ju",
+    "canvas": "naty3vq3u7lj",
+    "webgl": "77hyvlvopns9",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "zkm5yd0msgik",
+    "webgl": "xwpa86sfk0mk",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "32GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "todq1trq7dlk",
+    "webgl": "6bc7ty6nwirc",
+    "platform": "Win32",
+    "screen": "3440x1440",
+    "memory": "8GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "vqtyg9y6w5um",
+    "webgl": "sto55zrgi1if",
+    "platform": "MacIntel",
+    "screen": "3024x1964",
+    "memory": "8GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+  },
+  {
+    "canvas": "0b5jh14sja80",
+    "webgl": "zidoj9rijjxt",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "16GB",
+    "cpu": "12",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "8teifo97e9cg",
+    "webgl": "mcj341pt79zx",
+    "platform": "Win32",
+    "screen": "3440x1440",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "upygdqhj34za",
+    "webgl": "r30sjaelspo6",
+    "platform": "Android",
+    "screen": "1228x2700",
+    "memory": "6GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "63lhndcrehjd",
+    "webgl": "tg55upkw07x3",
+    "platform": "Linux x86_64",
+    "screen": "2560x1440",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "1p1p6w7qxygz",
+    "webgl": "xstrv1zc77me",
     "platform": "Win32",
     "screen": "1920x1080",
     "memory": "16GB",
@@ -513,390 +855,48 @@
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
   },
   {
-    "canvas": "1bc0yutkpfil",
-    "webgl": "fsfghtv0fpk2",
+    "canvas": "7ku0c5yv0ycj",
+    "webgl": "ibd988dsd0wo",
+    "platform": "Android",
+    "screen": "1080x2400",
+    "memory": "12GB",
+    "cpu": "6",
+    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
+  },
+  {
+    "canvas": "giv28b310p7b",
+    "webgl": "xrstzph8kfqc",
+    "platform": "Win32",
+    "screen": "2560x1440",
+    "memory": "16GB",
+    "cpu": "4",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "wcn3u5qdw48f",
+    "webgl": "zj6q4evjkhbm",
+    "platform": "MacIntel",
+    "screen": "2560x1600",
+    "memory": "16GB",
+    "cpu": "8",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
+  },
+  {
+    "canvas": "dqgbd87j4ugx",
+    "webgl": "kc1lz0smh3dg",
     "platform": "Android",
     "screen": "1440x3200",
-    "memory": "8GB",
+    "memory": "12GB",
     "cpu": "8",
     "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Mobile Safari/537.36"
   },
   {
-    "canvas": "kivoq603z16a",
-    "webgl": "8hwur53orcnv",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "zh9rgom2272u",
-    "webgl": "go1nfz3yfknd",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
-  },
-  {
-    "canvas": "cpz54a4hrkvu",
-    "webgl": "ollg6u0mv9yr",
-    "platform": "iPhone",
-    "screen": "1170x2532",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "ds86xpez5a4j",
-    "webgl": "y73mnim86pme",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-  },
-  {
-    "canvas": "kr3vhv6z59g9",
-    "webgl": "7xx7wfdx4avm",
-    "platform": "Win32",
-    "screen": "2560x1440",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "agtspmk03sh4",
-    "webgl": "0abag0tb1emh",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "i228m2wa50dj",
-    "webgl": "jx9yydbmxct6",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "0zqfees4vsxg",
-    "webgl": "9tzfj6n082ny",
+    "canvas": "1okoe26i6qfv",
+    "webgl": "5ge8r9gqbjdv",
     "platform": "Win32",
     "screen": "2560x1440",
     "memory": "32GB",
     "cpu": "4",
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "k661w5s5u5k3",
-    "webgl": "0vgzze4ypof6",
-    "platform": "Linux x86_64",
-    "screen": "2560x1440",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "w3nckzz84k7d",
-    "webgl": "gr1ljlc0mjd3",
-    "platform": "Win32",
-    "screen": "3440x1440",
-    "memory": "32GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "5fqgfrbtrj09",
-    "webgl": "1nojzacrlvux",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "z46fmy7wrpki",
-    "webgl": "f1qpmhc5xmty",
-    "platform": "Linux x86_64",
-    "screen": "1920x1080",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "gmijk3wbbz1r",
-    "webgl": "7jtj4vlfucs6",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "9tenamwm28hd",
-    "webgl": "0szgtqfpw2z8",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "32GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "ne10c4a1v0mg",
-    "webgl": "rrg1zeyod9xm",
-    "platform": "Win32",
-    "screen": "3440x1440",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "8ryo6myr040n",
-    "webgl": "lgu96is55mgy",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142) Gecko/20100101 Firefox/142"
-  },
-  {
-    "canvas": "dqbtsda8obby",
-    "webgl": "2d31eas5qg2o",
-    "platform": "Linux x86_64",
-    "screen": "2560x1440",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "e7cua93ajlpi",
-    "webgl": "2qlsgam6e0sf",
-    "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "hpv71r8ffujy",
-    "webgl": "r4atbtxqo6hy",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "32GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "sfrtrwn3t7b2",
-    "webgl": "sdbxf0kxmq4v",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "32GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "k0ueu64xz8gj",
-    "webgl": "4amfb9zwdu4t",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "qjb9mqi8o4i9",
-    "webgl": "pht3iqk6jb53",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/142"
-  },
-  {
-    "canvas": "gx0eu5my7m8a",
-    "webgl": "js29m06x3d0l",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "406ozqs6j576",
-    "webgl": "r09lmdr0hah2",
-    "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "r1g4a614n6fp",
-    "webgl": "lq6o92ihhasm",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "aef06rbbcenf",
-    "webgl": "p4gz0je2tdld",
-    "platform": "Win32",
-    "screen": "1600x900",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143) Gecko/20100101 Firefox/143"
-  },
-  {
-    "canvas": "w5w7wd9zpm7l",
-    "webgl": "a7342ow5zm65",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "vmdlhm2s0tzv",
-    "webgl": "ivt2nx9ag1ep",
-    "platform": "MacIntel",
-    "screen": "2560x1600",
-    "memory": "16GB",
-    "cpu": "10",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "ajs1qfo9vhvv",
-    "webgl": "nby03yh7u333",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "x49o44zs0z68",
-    "webgl": "lkro15858g12",
-    "platform": "Win32",
-    "screen": "3440x1440",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "4bzvnif4t2ge",
-    "webgl": "9isrdt9baziz",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "7mietmarhmem",
-    "webgl": "e8rx8ivgsj1v",
-    "platform": "Android",
-    "screen": "1440x3200",
-    "memory": "6GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Linux; Android 14; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "y752tv67h83i",
-    "webgl": "ntegs6uxn2kj",
-    "platform": "Linux x86_64",
-    "screen": "2560x1440",
-    "memory": "16GB",
-    "cpu": "4",
-    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "1y6b2a0edfyc",
-    "webgl": "tlg87hk9jsmm",
-    "platform": "iPhone",
-    "screen": "1284x2778",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "3gtvjssl21h0",
-    "webgl": "iookojxvtjiw",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "32GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "j85vn6w2prwp",
-    "webgl": "xumkcgbwl10e",
-    "platform": "iPhone",
-    "screen": "1290x2796",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/605.1.15"
-  },
-  {
-    "canvas": "n3js2nyjgfal",
-    "webgl": "tqun6q6pn472",
-    "platform": "MacIntel",
-    "screen": "3024x1964",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
-  },
-  {
-    "canvas": "gi57jlrxwcjc",
-    "webgl": "a3dp4bng1ua1",
-    "platform": "Android",
-    "screen": "1228x2700",
-    "memory": "8GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Mobile Safari/537.36"
-  },
-  {
-    "canvas": "mxdaoqup18py",
-    "webgl": "0u8bn3papl2d",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "6865hw6mbzn0",
-    "webgl": "h8tdbwjs05fs",
-    "platform": "MacIntel",
-    "screen": "3456x2234",
-    "memory": "16GB",
-    "cpu": "12",
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "o99xhxfckxj4",
-    "webgl": "27cbvhqf2vfv",
-    "platform": "Win32",
-    "screen": "1920x1080",
-    "memory": "8GB",
-    "cpu": "8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.185 Safari/537.36"
-  },
-  {
-    "canvas": "ejh30hop2ziw",
-    "webgl": "f8y95kw11hto",
-    "platform": "iPhone",
-    "screen": "1284x2778",
-    "memory": "6GB",
-    "cpu": "6",
-    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/605.1.15"
   }
 ]
